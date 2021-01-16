@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a 2nd-year computer science Ph.D. student at the University of Toronto and a graduate student at the [Donnelly Centre for Cellular and Biomolecular Research](https://tdccbr.med.utoronto.ca/) and the [Vector Institute](https://vectorinstitute.ai/). My work centres on deep learning for information extraction and natural language understanding of biomedical and clinical text. I completed my undergraduate degree at the University of Ottawa, graduating magna cum laude with a B.Sc in biochemistry. I completed a Masters’s degree in computer science at the University of Toronto.
+I am a 2nd-year computer science Ph.D. student at the University of Toronto and a graduate student at the [Donnelly Centre for Cellular and Biomolecular Research](https://tdccbr.med.utoronto.ca/) and the [Vector Institute](https://vectorinstitute.ai/). My work centres on deep learning for information extraction and natural language understanding of biomedical text. I completed my undergraduate degree at the University of Ottawa, graduating magna cum laude with a B.Sc in biochemistry. I completed my Masters’s degree in computer science at the University of Toronto.
 
 [![Johns's GitHub stats](https://github-readme-stats.vercel.app/api?username=johngiorgi&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johngiorgi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
