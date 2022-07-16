@@ -2,9 +2,6 @@
 
 I am a 4th-year computer science Ph.D. student at the University of Toronto and a graduate student at the [Donnelly Centre for Cellular and Biomolecular Research](https://tdccbr.med.utoronto.ca/) and the [Vector Institute](https://vectorinstitute.ai/). I am currently interning at [Ai2](https://ai2-web.apps.allenai.org/) on the [Semantic Scholar](https://www.semanticscholar.org/about) team. My work centres on information extraction and natural language processing (NLP) from/on biomedical literature. I completed my undergraduate degree at the University of Ottawa, graduating magna cum laude with a B.Sc in biochemistry. I completed my Masters degree in computer science at the University of Toronto.
 
-[![Johns's GitHub stats](https://github-readme-stats.vercel.app/api?username=johngiorgi&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johngiorgi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **JohnGiorgi/johngiorgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
